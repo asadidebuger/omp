@@ -1,0 +1,1 @@
+gcc -O3 -fopenmp qsort.c -o qsort
